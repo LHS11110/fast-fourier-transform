@@ -1,5 +1,4 @@
 #include "fft.hpp"
-#include <cmath>
 
 // Cooley-Tukey Algorithm
 // Time Complexity: O(n log n)
